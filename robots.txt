@@ -4,4 +4,4 @@ Disallow: /nogooglebot/
 User-agent: *
 Allow: /
 
-Sitemap: https://
+Sitemap: https:contactchhotiaistories-oss.github.io/Gif/sitemap.xml
